@@ -4,11 +4,9 @@
    "name": "Red Sea Resort",
    "country": "مصر",
    "city": "شرم الشيخ",
-   "latitude": 27.9948,
-   "longitude": 34.3747,
-   "image": "https://cf.bstatic.com/1.jpg",
-   "images": "[\"\"https://cf.bstatic.com/2.jpg\",\"https://cf.bstatic.com/3.jpg\"]",
-   "amenities": "[\"شاطئ خاص\",\"غوص\",\"سبا\"]",
+   "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg",
+   "images": "[\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg\",\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/124.jpg\"]",
+   "amenities": "[\"شاطئ خاص\",\"غوص\",\"سبا\",\"مطعم\"]",
    "description": "فندق فخم على شاطئ البحر الأحمر، يقدم تجربة استرخاء لا مثيل لها...",
    "category": "luxury",
    "rating": 4.8,
@@ -20,7 +18,97 @@
    "nearby_attractions": "[{\"name\":\"الهرم\",\"distance_km\":15,\"time_min\":20,\"type\":\"historical\"},{\"name\":\"سوق شرم الشيخ\",\"distance_km\":3,\"time_min\":10,\"type\":\"shopping\"}]",
    "nearby_restaurants": "[{\"name\":\"مطعم البحار\",\"cuisine\":\"بحرية\",\"rating\":4.7,\"distance_km\":0.5,\"type\":\"luxury\"},{\"name\":\"كافيه الشاطئ\",\"cuisine\":\"خفيف\",\"rating\":4.3,\"distance_km\":0.3,\"type\":\"local\"}]",
    "nearest_airport": "{\"name\":\"مطار شرم الشيخ الدولي\",\"distance_km\":22,\"time_min\":25,\"code\":\"SSH\"}",
-   "features": "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\"]",
-   "tags": "[\"هادئ\",\"للأسرة\"]"
- }
+   "features": [
+      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\",\"WiFi مجاني\"]",
+      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\"]"
+   ],
+   "tags": [
+      "[\"هادئ\",\"للأسرة\"]",
+      "[\"هادئ\",\"للأسرة\"]"
+   ]
+},
+ {
+   "id": null,
+   "name": "Nile Star Suites &Apartment",
+   "country": "Egypt",
+   "city": "Cairo",
+   "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg",
+   "images": "[\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg\",\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/124.jpg\"]",
+   "amenities": "[\"شاطئ خاص\",\"غوص\",\"سبا\",\"مطعم\"]",
+   "description": "فندق فخم على شاطئ البحر الأحمر، يقدم تجربة استرخاء لا مثيل لها...",
+   "category": "luxury",
+   "rating": 4.8,
+   "price_range": "luxury",
+   "check_in": "14:00",
+   "check_out": "12:00",
+   "website": "https://redsea-resort.com",
+   "virtual_tour": "https://mytour.com/redsea",
+   "nearby_attractions": "[{\"name\":\"الهرم\",\"distance_km\":15,\"time_min\":20,\"type\":\"historical\"},{\"name\":\"سوق شرم الشيخ\",\"distance_km\":3,\"time_min\":10,\"type\":\"shopping\"}]",
+   "nearby_restaurants": "[{\"name\":\"مطعم البحار\",\"cuisine\":\"بحرية\",\"rating\":4.7,\"distance_km\":0.5,\"type\":\"luxury\"},{\"name\":\"كافيه الشاطئ\",\"cuisine\":\"خفيف\",\"rating\":4.3,\"distance_km\":0.3,\"type\":\"local\"}]",
+   "nearest_airport": "{\"name\":\"مطار شرم الشيخ الدولي\",\"distance_km\":22,\"time_min\":25,\"code\":\"SSH\"}",
+   "features": [
+      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\",\"WiFi مجاني\"]",
+      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\"]"
+   ],
+   "tags": [
+      "[\"هادئ\",\"للأسرة\"]",
+      "[\"هادئ\",\"للأسرة\"]"
+   ]
+},
+ {
+   "id": null,
+   "name": "Nile Star Suites &Apartment",
+   "country": "Egypt",
+   "city": "Cairo",
+   "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg",
+   "images": "[\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg\",\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/124.jpg\"]",
+   "amenities": "[\"شاطئ خاص\",\"غوص\",\"سبا\",\"مطعم\"]",
+   "description": "فندق فخم على شاطئ البحر الأحمر، يقدم تجربة استرخاء لا مثيل لها...",
+   "category": "luxury",
+   "rating": 4.8,
+   "price_range": "luxury",
+   "check_in": "14:00",
+   "check_out": "12:00",
+   "website": "https://redsea-resort.com",
+   "virtual_tour": "https://mytour.com/redsea",
+   "nearby_attractions": "[{\"name\":\"الهرم\",\"distance_km\":15,\"time_min\":20,\"type\":\"historical\"},{\"name\":\"سوق شرم الشيخ\",\"distance_km\":3,\"time_min\":10,\"type\":\"shopping\"}]",
+   "nearby_restaurants": "[{\"name\":\"مطعم البحار\",\"cuisine\":\"بحرية\",\"rating\":4.7,\"distance_km\":0.5,\"type\":\"luxury\"},{\"name\":\"كافيه الشاطئ\",\"cuisine\":\"خفيف\",\"rating\":4.3,\"distance_km\":0.3,\"type\":\"local\"}]",
+   "nearest_airport": "{\"name\":\"مطار شرم الشيخ الدولي\",\"distance_km\":22,\"time_min\":25,\"code\":\"SSH\"}",
+   "features": [
+      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\",\"WiFi مجاني\"]",
+      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\"]"
+   ],
+   "tags": [
+      "[\"هادئ\",\"للأسرة\"]",
+      "[\"هادئ\",\"للأسرة\"]"
+   ]
+},
+ {
+   "id": null,
+   "name": "Nile Star Suites &Apartment",
+   "country": "Egypt",
+   "city": "Cairo",
+   "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg",
+   "images": "[\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg\",\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/124.jpg\"]",
+   "amenities": "[\"شاطئ خاص\",\"غوص\",\"سبا\",\"مطعم\"]",
+   "description": "فندق فخم على شاطئ البحر الأحمر، يقدم تجربة استرخاء لا مثيل لها...",
+   "category": "luxury",
+   "rating": 4.8,
+   "price_range": "luxury",
+   "check_in": "14:00",
+   "check_out": "12:00",
+   "website": "https://redsea-resort.com",
+   "virtual_tour": "https://mytour.com/redsea",
+   "nearby_attractions": "[{\"name\":\"الهرم\",\"distance_km\":15,\"time_min\":20,\"type\":\"historical\"},{\"name\":\"سوق شرم الشيخ\",\"distance_km\":3,\"time_min\":10,\"type\":\"shopping\"}]",
+   "nearby_restaurants": "[{\"name\":\"مطعم البحار\",\"cuisine\":\"بحرية\",\"rating\":4.7,\"distance_km\":0.5,\"type\":\"luxury\"},{\"name\":\"كافيه الشاطئ\",\"cuisine\":\"خفيف\",\"rating\":4.3,\"distance_km\":0.3,\"type\":\"local\"}]",
+   "nearest_airport": "{\"name\":\"مطار شرم الشيخ الدولي\",\"distance_km\":22,\"time_min\":25,\"code\":\"SSH\"}",
+   "features": [
+      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\",\"WiFi مجاني\"]",
+      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\"]"
+   ],
+   "tags": [
+      "[\"هادئ\",\"للأسرة\"]",
+      "[\"هادئ\",\"للأسرة\"]"
+   ]
+}
 ]
