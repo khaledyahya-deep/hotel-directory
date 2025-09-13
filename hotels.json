@@ -2,7 +2,7 @@
  {
    "id": 1,
    "name": "Red Sea Resort",
-   "country": "مصر",
+   "Country": "مصر",
    "city": "شرم الشيخ",
    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg",
    "images": "[\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg\",\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/124.jpg\"]",
@@ -112,3 +112,4 @@
    ]
 }
 ]
+
