@@ -1,115 +1,27 @@
 [
- {
-   "id": 1,
-   "name": "Red Sea Resort",
-   "Country": "مصر",
-   "city": "شرم الشيخ",
-   "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg",
-   "images": "[\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg\",\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/124.jpg\"]",
-   "amenities": "[\"شاطئ خاص\",\"غوص\",\"سبا\",\"مطعم\"]",
-   "description": "فندق فخم على شاطئ البحر الأحمر، يقدم تجربة استرخاء لا مثيل لها...",
-   "category": "luxury",
-   "rating": 4.8,
-   "price_range": "luxury",
-   "check_in": "14:00",
-   "check_out": "12:00",
-   "website": "https://redsea-resort.com",
-   "virtual_tour": "https://mytour.com/redsea",
-   "nearby_attractions": "[{\"name\":\"الهرم\",\"distance_km\":15,\"time_min\":20,\"type\":\"historical\"},{\"name\":\"سوق شرم الشيخ\",\"distance_km\":3,\"time_min\":10,\"type\":\"shopping\"}]",
-   "nearby_restaurants": "[{\"name\":\"مطعم البحار\",\"cuisine\":\"بحرية\",\"rating\":4.7,\"distance_km\":0.5,\"type\":\"luxury\"},{\"name\":\"كافيه الشاطئ\",\"cuisine\":\"خفيف\",\"rating\":4.3,\"distance_km\":0.3,\"type\":\"local\"}]",
-   "nearest_airport": "{\"name\":\"مطار شرم الشيخ الدولي\",\"distance_km\":22,\"time_min\":25,\"code\":\"SSH\"}",
-   "features": [
-      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\",\"WiFi مجاني\"]",
-      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\"]"
-   ],
-   "tags": [
-      "[\"هادئ\",\"للأسرة\"]",
-      "[\"هادئ\",\"للأسرة\"]"
-   ]
-},
- {
-   "id": null,
-   "name": "Nile Star Suites &Apartment",
-   "country": "Egypt",
-   "city": "Cairo",
-   "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg",
-   "images": "[\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg\",\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/124.jpg\"]",
-   "amenities": "[\"شاطئ خاص\",\"غوص\",\"سبا\",\"مطعم\"]",
-   "description": "فندق فخم على شاطئ البحر الأحمر، يقدم تجربة استرخاء لا مثيل لها...",
-   "category": "luxury",
-   "rating": 4.8,
-   "price_range": "luxury",
-   "check_in": "14:00",
-   "check_out": "12:00",
-   "website": "https://redsea-resort.com",
-   "virtual_tour": "https://mytour.com/redsea",
-   "nearby_attractions": "[{\"name\":\"الهرم\",\"distance_km\":15,\"time_min\":20,\"type\":\"historical\"},{\"name\":\"سوق شرم الشيخ\",\"distance_km\":3,\"time_min\":10,\"type\":\"shopping\"}]",
-   "nearby_restaurants": "[{\"name\":\"مطعم البحار\",\"cuisine\":\"بحرية\",\"rating\":4.7,\"distance_km\":0.5,\"type\":\"luxury\"},{\"name\":\"كافيه الشاطئ\",\"cuisine\":\"خفيف\",\"rating\":4.3,\"distance_km\":0.3,\"type\":\"local\"}]",
-   "nearest_airport": "{\"name\":\"مطار شرم الشيخ الدولي\",\"distance_km\":22,\"time_min\":25,\"code\":\"SSH\"}",
-   "features": [
-      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\",\"WiFi مجاني\"]",
-      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\"]"
-   ],
-   "tags": [
-      "[\"هادئ\",\"للأسرة\"]",
-      "[\"هادئ\",\"للأسرة\"]"
-   ]
-},
- {
-   "id": null,
-   "name": "Nile Star Suites &Apartment",
-   "country": "Egypt",
-   "city": "Cairo",
-   "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg",
-   "images": "[\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg\",\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/124.jpg\"]",
-   "amenities": "[\"شاطئ خاص\",\"غوص\",\"سبا\",\"مطعم\"]",
-   "description": "فندق فخم على شاطئ البحر الأحمر، يقدم تجربة استرخاء لا مثيل لها...",
-   "category": "luxury",
-   "rating": 4.8,
-   "price_range": "luxury",
-   "check_in": "14:00",
-   "check_out": "12:00",
-   "website": "https://redsea-resort.com",
-   "virtual_tour": "https://mytour.com/redsea",
-   "nearby_attractions": "[{\"name\":\"الهرم\",\"distance_km\":15,\"time_min\":20,\"type\":\"historical\"},{\"name\":\"سوق شرم الشيخ\",\"distance_km\":3,\"time_min\":10,\"type\":\"shopping\"}]",
-   "nearby_restaurants": "[{\"name\":\"مطعم البحار\",\"cuisine\":\"بحرية\",\"rating\":4.7,\"distance_km\":0.5,\"type\":\"luxury\"},{\"name\":\"كافيه الشاطئ\",\"cuisine\":\"خفيف\",\"rating\":4.3,\"distance_km\":0.3,\"type\":\"local\"}]",
-   "nearest_airport": "{\"name\":\"مطار شرم الشيخ الدولي\",\"distance_km\":22,\"time_min\":25,\"code\":\"SSH\"}",
-   "features": [
-      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\",\"WiFi مجاني\"]",
-      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\"]"
-   ],
-   "tags": [
-      "[\"هادئ\",\"للأسرة\"]",
-      "[\"هادئ\",\"للأسرة\"]"
-   ]
-},
- {
-   "id": null,
-   "name": "Nile Star Suites &Apartment",
-   "country": "Egypt",
-   "city": "Cairo",
-   "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg",
-   "images": "[\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/123.jpg\",\"https://cf.bstatic.com/xdata/images/hotel/max1024x768/124.jpg\"]",
-   "amenities": "[\"شاطئ خاص\",\"غوص\",\"سبا\",\"مطعم\"]",
-   "description": "فندق فخم على شاطئ البحر الأحمر، يقدم تجربة استرخاء لا مثيل لها...",
-   "category": "luxury",
-   "rating": 4.8,
-   "price_range": "luxury",
-   "check_in": "14:00",
-   "check_out": "12:00",
-   "website": "https://redsea-resort.com",
-   "virtual_tour": "https://mytour.com/redsea",
-   "nearby_attractions": "[{\"name\":\"الهرم\",\"distance_km\":15,\"time_min\":20,\"type\":\"historical\"},{\"name\":\"سوق شرم الشيخ\",\"distance_km\":3,\"time_min\":10,\"type\":\"shopping\"}]",
-   "nearby_restaurants": "[{\"name\":\"مطعم البحار\",\"cuisine\":\"بحرية\",\"rating\":4.7,\"distance_km\":0.5,\"type\":\"luxury\"},{\"name\":\"كافيه الشاطئ\",\"cuisine\":\"خفيف\",\"rating\":4.3,\"distance_km\":0.3,\"type\":\"local\"}]",
-   "nearest_airport": "{\"name\":\"مطار شرم الشيخ الدولي\",\"distance_km\":22,\"time_min\":25,\"code\":\"SSH\"}",
-   "features": [
-      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\",\"WiFi مجاني\"]",
-      "[\"خدمة غرف 24 ساعة\",\"إفطار مجاني\"]"
-   ],
-   "tags": [
-      "[\"هادئ\",\"للأسرة\"]",
-      "[\"هادئ\",\"للأسرة\"]"
-   ]
-}
+  {
+    "id": "1",
+    "name": "فندق فيرمونت الرياض",
+    "name_english": "Fairmont Riyadh",
+    "city": "الرياض",
+    "country": "السعودية",
+    "star_rating": 5,
+    "status": "معتمد",
+    "address": "الملك عبد العزيز، حي الملك عبد الله، الرياض 12244",
+    "description": "فندق فاخر في قلب الرياض يوفر إقامة راقية مع خدمات عالمية المستوى. يقع في موقع استراتيجي مع سهولة الوصول لمراكز الأعمال والمناطق التجارية.",
+    "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "phone": "+966-11-273-0000",
+    "emergency_phone": "+966-11-273-0001",
+    "email": "riyadh@fairmont.com",
+    "website": "https://www.fairmont.com/riyadh/",
+    "features": ["واي فاي مجاني", "مسبح", "صالة ألعاب رياضية", "سبا", "مطاعم متعددة", "خدمة الغرف 24 ساعة", "مركز أعمال", "موقف سيارات"],
+    "business_facilities": ["قاعات اجتماعات", "مركز مؤتمرات", "خدمات سكرتارية", "معدات عرض", "خدمة طباعة", "ترجمة فورية"],
+    "distance_to_airport": "35 كيلومتر من مطار الملك خالد الدولي",
+    "public_transport": ["مترو الرياض - محطة الملك عبد الله", "حافلات النقل العام"],
+    "taxi_info": "خدمة تاكسي متوفرة 24 ساعة، متوسط التكلفة للمطار 80-100 ريال",
+    "company_policies": ["يجب إبراز بطاقة هوية الشركة عند تسجيل الدخول", "لا يسمح بالتدخين في الغرف", "يُفضل الحجز المسبق للمطاعم"],
+    "staff_rating": 4.8,
+    "staff_notes": "الفندق يقدم خصم خاص للموظفين. يُنصح بالحجز عبر مكتب السفر في الشركة للحصول على الأسعار المفضلة.",
+    "last_reviewed": "2024-02-17"
+  }
 ]
-
