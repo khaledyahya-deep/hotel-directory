@@ -24,4 +24,34 @@
     "staff_notes": "الفندق يقدم خصم خاص للموظفين. يُنصح بالحجز عبر مكتب السفر في الشركة للحصول على الأسعار المفضلة.",
     "last_reviewed": "2024-02-17"
   }
+  {
+  "name": "سويس اوتيل مكه ",
+  "name_english": "Swiss Hotel makaa",
+  "city": "جدة",
+  "country": "السعودية",
+  "star_rating": "5",
+  "status": "معتمد",
+  "address": "مكه",
+  "description": "ممتاز وبمصعد واحد",
+  "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331523268.jpg?k=553a461ac09c99d91d349d19a2dc4d8698d97cd2902ee219caa7fc16d577e429&o=",
+  "phone": "96-66232323",
+  "emergency_phone": "966-3235335",
+  "email": "khaed@yhaoo.com",
+  "website": "swiss.hotel@gmail.com",
+  "features": [
+    "wifi",
+    "park"
+  ],
+  "business_facilities": [
+    "hall of wedding"
+  ],
+  "distance_to_airport": "near to airport , taxi station",
+  "public_transport": [],
+  "taxi_info": "24 hours ",
+  "company_policies": [],
+  "staff_rating": "5",
+  "staff_notes": "all good ",
+  "last_reviewed": ""
+}
 ]
+
