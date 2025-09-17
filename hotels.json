@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "name": "فندق فيرمونت الرياض",
-    "name_english": "Fairmont Riyadh",
+    "name":"فندق فيرمونت الرياض",
+    "name_english":"Fairmont Riyadh",
     "city": "الرياض",
     "country": "السعودية",
     "star_rating": 5,
@@ -26,8 +26,8 @@
   },
   {
     "id": "2",
-    "name": "سويس اوتيل مكه",
-    "name_english": "Swiss Hotel Makkah",
+    "name":"سويس اوتيل مكه",
+    "name_english":"Swiss Hotel Makkah",
     "city": "مكة",
     "country": "السعودية",
     "star_rating": 5,
@@ -64,23 +64,16 @@
   "emergency_phone": "",
   "email": "khaledyahya415@gmail.com",
   "website": "",
-  "features": [
-    "لبيل"
-  ],
-  "business_facilities": [
-    "بيلي"
-  ],
+  "features": ["لبيل"],
+  "business_facilities": ["بيلي"],
   "distance_to_airport": "",
-  "public_transport": [
-    "لبيل"
-  ],
+  "public_transport": ["لبيل"],
   "taxi_info": "",
-  "company_policies": [
-    "لبيلي"
-  ],
+  "company_policies": ["لبيلي"],
   "staff_rating": 3,
   "staff_notes": "",
   "last_reviewed": ""
 }
 ]
+
 
