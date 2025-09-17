@@ -48,5 +48,39 @@
     "staff_rating": 5,
     "staff_notes": "كل شيء جيد",
     "last_reviewed": "2025-04-01"
-  }
+  },
+  {
+  "id": "3",
+  "name": "albert wessels",
+  "name_english": "albert wessels",
+  "city": "شرم الشيخ",
+  "country": "مصر",
+  "star_rating": 3,
+  "status": "معتمد",
+  "address": "Capetown",
+  "description": "",
+  "image_url": "",
+  "phone": "+2712345632",
+  "emergency_phone": "",
+  "email": "khaledyahya415@gmail.com",
+  "website": "",
+  "features": [
+    "لبيل"
+  ],
+  "business_facilities": [
+    "بيلي"
+  ],
+  "distance_to_airport": "",
+  "public_transport": [
+    "لبيل"
+  ],
+  "taxi_info": "",
+  "company_policies": [
+    "لبيلي"
+  ],
+  "staff_rating": 3,
+  "staff_notes": "",
+  "last_reviewed": ""
+}
 ]
+
